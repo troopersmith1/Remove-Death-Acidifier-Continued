@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Death Acidifier Removal Continued [1.1][1.2]</name>
+  <author>Troopersmith1 - swwu</author>
+  <url></url>
+  <description>Fixed and Updated. Original mod can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2016569177
+  
+Adds an operation to remove death acidifiers from pawns.It's a fairly difficult operation that requires 10 medicine skill.
+
+Death acidifiers don't do much on recruited pawns except make you really worried about all the gear you gave them disappearing if they die.
+
+If you have the time to capture and operate on someone who has one, you also have the time to just strip them of their items.
+
+The inability to remove them basically doesn't impact game balance, but does make pawn management a lot more finicky.
+
+Hence, this mod.</description>
+  <supportedVersions>
+  	<li>1.1</li>
+	<li>1.2</li>
+  </supportedVersions>
+  <packageId>Troopersmith1.DeathAcidifierRemoval</packageId>
+</ModMetaData>
