@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Death Acidifier Removal Continued [1.1][1.2]</name>
+  <name>Death Acidifier Removal Continued [1.1+]</name>
   <author>Troopersmith1 - swwu</author>
   <url></url>
   <description>Fixed and Updated. Original mod can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=2016569177
@@ -17,6 +17,7 @@ Hence, this mod.</description>
   <supportedVersions>
   	<li>1.1</li>
 	<li>1.2</li>
+	<li>1.3</li>
   </supportedVersions>
   <packageId>Troopersmith1.DeathAcidifierRemoval</packageId>
 </ModMetaData>
